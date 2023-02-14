@@ -1,0 +1,3 @@
+﻿  Moves.cpp
+C:\Users\jackt\source\repos\ChessPGNFlatten\ChessPGNFlatten\Moves.cpp(39,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ChessPGNFlatten.vcxproj -> C:\Users\jackt\source\repos\ChessPGNFlatten\x64\Debug\ChessPGNFlatten.exe
